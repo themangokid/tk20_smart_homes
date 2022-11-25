@@ -5,5 +5,6 @@
 ## Church
 ## Garden
 ## Philips hue
+Philips Hue is a collection of smart lighting products. This product helps you discover a whole range of lights, sensors and switches that help you light your home smarter. You can replace your existing light bulbs with smart bulbs or explore many styles of lamps and fixtures. Philips Hue offers light for every room in your home.
 ## Spiral starcase
 ## Hedge
