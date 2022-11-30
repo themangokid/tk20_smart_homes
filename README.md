@@ -16,6 +16,9 @@ Pending to be done:
 +  3DModel of a poo
 +  3DModel of a balcony
 
+Has been done:
++ 3D model of a lawn
+
 ## Leads
 + Emil, Linus, Markus
 + Aisha, Golsa, Edvin, Josefin
