@@ -4,7 +4,16 @@
 
 
 ## Lead log
-+  
++  3D Model of a kitchen
++  3D Model of a living room
++  3DModel of a garage
++  3D Model of garden shed
++  3D Model of a driveway
++  3D Model of a fence
++  3DModel of a gate
++  3DModel of a patio
++  3DModel of a poo
++  3DModel of a balcony
 
 ## Leads
 + Emil, Linus, Markus
