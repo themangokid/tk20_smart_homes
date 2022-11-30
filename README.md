@@ -3,6 +3,7 @@
 ## Leads
 + Emil, Linus, Markus
 + Aisha, Golsa, Edvin, Josefin
++ Albin, Amitoz, Pontus, 
 ## Lawn mower
 The L.M X3000 is a robotic lawn mower with great accuracy, the lawn mower can be controlled inside of a smart home and a mobile device. It has a bluetooth and wifi connection up to 1 kilometer. It is made for all seasons and a single battery charge lasts up to 72 hours. The L.M X3000 control app has a feature to see your whole lawn and calculate with precision to mow the lawn with perfection.
 ## Drone
