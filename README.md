@@ -1,6 +1,8 @@
 
 # Smart home
 
+## Introduction
+
 
 
 ## Lead log
