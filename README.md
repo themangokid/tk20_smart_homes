@@ -1,5 +1,11 @@
 
 # Smart home
+
+
+
+## Lead log
++  
+
 ## Leads
 + Emil, Linus, Markus
 + Aisha, Golsa, Edvin, Josefin
