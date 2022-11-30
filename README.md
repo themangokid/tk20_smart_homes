@@ -19,6 +19,10 @@ Pending to be done:
 Has been done:
 + 3D model of a lawn
 
+## Merge next week
++ 3 different merges
++ We vote on the best
+
 ## Leads
 + Emil, Linus, Markus
 + Aisha, Golsa, Edvin, Josefin
