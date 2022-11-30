@@ -3,7 +3,7 @@
 
 ## Introduction
 
-
++ Complete all the tasks 
 
 ## Lead log
 Pending to be done:
