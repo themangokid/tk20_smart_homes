@@ -4,6 +4,7 @@
 
 
 ## Lead log
+Pending to be done:
 +  3D Model of a kitchen
 +  3D Model of a living room
 +  3DModel of a garage
