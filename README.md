@@ -20,6 +20,9 @@ Pending to be done:
 Has been done:
 + 3D model of a lawn
 + 3D Model of a garage
++ 3D Model of a hedge
++ 3D Model of a garden with wall
++ 3D Model of a drone
 
 We are assigning people to the 3D Models/Issues that has not been completet yet.
 
