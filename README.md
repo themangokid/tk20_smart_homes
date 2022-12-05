@@ -30,6 +30,13 @@ We are assigning people to the 3D Models/Issues that has not been completet yet.
 + 3 different merges
 + We vote on the best
 
+## Merge
++ Merge 3D Models
++ 3 People are assigned
++ One person checks the 3D Models if they are okay
++ Second person imports the 3D Models into a program
++ Third person is the debugger
+
 ## Leads
 + Emil, Linus, Markus
 + Aisha, Golsa, Edvin, Josefin
