@@ -9,7 +9,6 @@
 Pending to be done:
 +  3D Model of a kitchen
 +  3D Model of a living room
-+  3D Model of a garage
 +  3D Model of garden shed
 +  3D Model of a driveway
 +  3D Model of a fence
@@ -20,6 +19,7 @@ Pending to be done:
 
 Has been done:
 + 3D model of a lawn
++ 3D Model of a garage
 
 We are assigning people to the 3D Models/Issues that has not been completet yet.
 
