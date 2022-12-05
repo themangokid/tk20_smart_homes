@@ -15,11 +15,11 @@ Pending to be done:
 +  3D Model of a patio
 +  3D Model of a poo
 +  3D Model of a balcony
++  3D Model of a living room
 
 Has been done:
 + 3D model of a lawn
 + 3D Model of a garage
-+ 3D Model of a living room
 
 We are assigning people to the 3D Models/Issues that has not been completet yet.
 
