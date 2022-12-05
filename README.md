@@ -9,17 +9,19 @@
 Pending to be done:
 +  3D Model of a kitchen
 +  3D Model of a living room
-+  3DModel of a garage
++  3D Model of a garage
 +  3D Model of garden shed
 +  3D Model of a driveway
 +  3D Model of a fence
-+  3DModel of a gate
-+  3DModel of a patio
-+  3DModel of a poo
-+  3DModel of a balcony
++  3D Model of a gate
++  3D Model of a patio
++  3D Model of a poo
++  3D Model of a balcony
 
 Has been done:
 + 3D model of a lawn
+
+We are assigning people to the 3D Models/Issues that has not been completet yet.
 
 ## Merge next week
 + 3 different merges
