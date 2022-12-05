@@ -35,7 +35,7 @@ We are assigning people to the 3D Models/Issues that has not been completet yet.
 + 3 People are assigned
 + One person checks the 3D Models if they are okay
 + Second person imports the 3D Models into a program
-+ Third person is the debugger
++ Third person is the debugger/assistant
 
 ## Leads
 + Emil, Linus, Markus
